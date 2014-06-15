@@ -20,6 +20,7 @@ end of point 1 */
 // List.hpp
 
 template <typename T>
+
 struct ListNode
 {
 ListNode():m_value(),m_prev(),m_next(nullptr) {}
